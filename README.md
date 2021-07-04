@@ -12,7 +12,7 @@ Hi there! I'm Jonathan, known on the internet by my internet moniker - Vorlias.
     </tr>
     <tr>
         <td>
-            <a href="http://zenerith.com"><img src="./assets/zenerith_alpha@2x.png"/></a>
+            <a href="https://twitter.com/zenerith"><img src="./assets/zenerith_alpha@2x.png"/></a>
         </td>
         <td>
             Work in progress high detailed RPG on Roblox
