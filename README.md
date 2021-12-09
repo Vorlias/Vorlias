@@ -15,7 +15,7 @@ Hi there! I'm Jonathan, known on the internet by my internet moniker - Vorlias.
             <a href="https://twitter.com/zenerith"><img src="./assets/zenerith_alpha@2x.png?v=3"/></a>
         </td>
         <td>
-            Traditional sort of MMORPG. Personal project of mine.
+            Traditional sort of MMORPG. Personal project of mine. Project Lead & Engineer, pretty much.
         </td>
     </tr>
     <tr>
@@ -24,7 +24,7 @@ Hi there! I'm Jonathan, known on the internet by my internet moniker - Vorlias.
         </td>
         <td>
             <!-- nyet -->
-            Sandbox RPG type game, under <a href="https://github.com/easy-games">Easy Games</a>.
+            Popular blocky island sandbox RPG game (lol), under <a href="https://github.com/easy-games">Easy Games</a>. I'm one of the engineers that work on it.
         </td>
     </tr>
 </table>
