@@ -3,7 +3,7 @@ Hi there! I'm Jonathan, known on the internet by my internet moniker - Vorlias.
 
 - I am a developer on the platform known as Roblox, working on games such as [Zenerith](https://zenerith.com), [Islands](https://easy.gg) and also contributing to the open source space in places such as my development group [Aurora Australis](//github.com/roblox-aurora) and on tools such as [roblox-ts](//roblox-ts.com).
 
-## My main projects
+## Games that I work on
 
 <table align="center">
     <tr>
@@ -15,7 +15,16 @@ Hi there! I'm Jonathan, known on the internet by my internet moniker - Vorlias.
             <a href="https://twitter.com/zenerith"><img src="./assets/zenerith_alpha@2x.png?v=3"/></a>
         </td>
         <td>
-            Work in progress high detailed RPG on Roblox
+            Traditional sort of MMORPG. Personal project of mine.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://twitter.com/robloxislands"><img src="https://t4.rbxcdn.com/a75839f744909068c859eb8598237ab4"/></a>
+        </td>
+        <td>
+            <!-- nyet -->
+            Sandbox RPG type game, under <a href="https://github.com/easy-games">Easy Games</a>.
         </td>
     </tr>
 </table>
