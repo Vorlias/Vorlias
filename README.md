@@ -24,7 +24,7 @@ Hi there! I'm Jonathan, known on the internet by my internet moniker - Vorlias.
         </td>
         <td>
             <!-- nyet -->
-            Popular blocky island sandbox RPG game (lol), under <a href="https://github.com/easy-games">Easy Games</a>. I'm one of the engineers that work on it.
+            Popular blocky island sandbox RPG game (lol), under <a href="https://easy.gg">Easy Games</a>. I'm one of the engineers that work on it.
         </td>
     </tr>
 </table>
