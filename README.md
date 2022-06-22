@@ -20,7 +20,7 @@ Hi there! I'm Jonathan, known on the internet by my internet moniker - Vorlias.
     </tr>
     <tr>
         <td>
-            <a href="https://twitter.com/robloxislands"><img src="https://t4.rbxcdn.com/a75839f744909068c859eb8598237ab4"/></a>
+            <a href="https://twitter.com/robloxislands"><img src="https://tr.rbxcdn.com/78a8c65798927a0ff1e08b8e2d8cb6f4/500/500/Image/Png"/></a>
         </td>
         <td>
             <!-- nyet -->
