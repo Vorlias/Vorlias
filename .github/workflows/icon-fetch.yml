@@ -24,7 +24,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Get islands icon
-        run: ./fetch-assets.sh
+        run: bash fetch-assets.sh
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
