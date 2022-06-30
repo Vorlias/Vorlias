@@ -19,8 +19,8 @@ Hi there! I'm Jonathan, known on the internet by my internet moniker - Vorlias.
         </td>
     </tr>
     <tr>
-        <td>
-            <a href="https://twitter.com/robloxislands"><img src="https://raw.githubusercontent.com/Vorlias/Vorlias/master/assets/islands-icon.png"/></a>
+        <td align="center">
+            <a href="https://twitter.com/robloxislands"><img width="200" src="https://raw.githubusercontent.com/Vorlias/Vorlias/master/assets/islands-icon.png"/></a>
         </td>
         <td>
             <!-- nyet -->
