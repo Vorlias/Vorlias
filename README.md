@@ -26,7 +26,7 @@ Hi there! I'm Jonathan, known on the internet by my internet moniker - Vorlias.
             <a href="http://ptb.zenerith.com"><img width="200" src="https://raw.githubusercontent.com/Vorlias/Vorlias/master/assets/zenerith-icon.png"/></a>
         </td>
         <td>
-        A vast world in which an adventure awaits... a world in which you can forge your own story in a vast fantasy world, right here on Roblox.
+        A vast world in which an adventure awaits... a world in which you can forge your own story in a vast fantasy world, on Roblox.
 
 - 🌍 Enter a fantasy world, and create your own story!
 - 🏹 Come face to face with a variety of friends, and foe!
