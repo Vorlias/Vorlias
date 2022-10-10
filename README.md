@@ -11,20 +11,31 @@ Hi there! I'm Jonathan, known on the internet by my internet moniker - Vorlias.
         <th>Information</th>
     </tr>
     <tr>
-        <td>
-            <a href="https://twitter.com/zenerith"><img src="./assets/zenerith_alpha@2x.png?v=3"/></a>
-        </td>
-        <td>
-            Traditional sort of MMORPG. Personal project of mine. Project Lead & Engineer, pretty much.
-        </td>
-    </tr>
-    <tr>
         <td align="center">
             <a href="https://www.roblox.com/games/4872321990/--"><img width="200" src="https://raw.githubusercontent.com/Vorlias/Vorlias/master/assets/islands-icon.png"/></a>
         </td>
         <td>
-            <!-- nyet -->
             Popular block-based creative/economic survival RPG, under <a href="https://easy.gg">Easy Games</a>. I'm one of the engineers that work on it.
+            <div align="center">
+                 <a href="https://www.roblox.com/games/4872321990/--">Play Islands</a>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="http://ptb.zenerith.com"><img width="200" src="https://raw.githubusercontent.com/Vorlias/Vorlias/master/assets/zenerith-icon.png"/></a>
+        </td>
+        <td>
+        A vast world in which an adventure awaits... a world in which you can forge your own story in a vast fantasy world, right here on Roblox.
+
+- 🌍 Enter a fantasy world, and create your own story!
+- 🏹 Come face to face with a variety of friends, and foe!
+- 📜 Go on an adventure and complete quests
+            <br/>
+            <div align="center">
+                 <a href="https://twitter.com/Zenerith">Project Twitter</a> |
+                 <a href="http://ptb.zenerith.com">Play Zenerith (Test Build)</a>
+            </div>
         </td>
     </tr>
 </table>
