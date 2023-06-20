@@ -4,8 +4,8 @@ name: Icon Fetch
 
 # Controls when the workflow will run
 on:
-  schedule: 
-  - cron:  '0 0 * * SUN'
+#  schedule: 
+#  - cron:  '0 0 * * SUN' # have to disable this until there's a better way to do this :/
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
