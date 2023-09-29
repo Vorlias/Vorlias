@@ -1,24 +1,20 @@
 ## Jonathan, aka Vorlias
 Hi there! I'm Jonathan, known on the internet by my internet moniker - Vorlias.
 
-- I am a developer on the platform known as Roblox, working on games such as [Zenerith](https://zenerith.com), [Islands](https://easy.gg) and also contributing to the open source space in places such as my development group [Aurora Australis](//github.com/roblox-aurora) and on tools such as [roblox-ts](//roblox-ts.com).
+- I am a developer on the platform known as Roblox, working on games like [Zenerith](https://zenerith.com), having worked on games such as [Islands](https://easy.gg) and also contributing to the open source space in places such as my development group [Aurora Australis](//github.com/roblox-aurora) and on tools such as [roblox-ts](//roblox-ts.com).
 
-## Games that I work on
+## Current Projects
 
 <table align="center">
     <tr>
         <th width="300px">Project</th>
         <th>Information</th>
     </tr>
-    <tr>
+        <tr>
         <td align="center">
-            <a href="https://www.roblox.com/games/4872321990/--"><img width="200" src="https://raw.githubusercontent.com/Vorlias/Vorlias/master/assets/islands-icon.png"/></a>
         </td>
         <td>
-            Popular block-based creative/economic survival RPG, under <a href="https://easy.gg">Easy Games</a>. I'm one of the engineers that work on it.
-            <div align="center">
-                 <a href="https://www.roblox.com/games/4872321990/--">Play Islands</a>
-            </div>
+            [Undisclosed, coming soon&trade; <a href="https://easy.gg/">easy.gg</a> project]
         </td>
     </tr>
     <tr>
@@ -35,6 +31,30 @@ Hi there! I'm Jonathan, known on the internet by my internet moniker - Vorlias.
             <div align="center">
                  <a href="https://twitter.com/Zenerith">Project Twitter</a> |
                  <a href="http://ptb.zenerith.com">Play Zenerith (Test Build)</a>
+            </div>
+        </td>
+    </tr>
+</table>
+
+## Projects I've worked on
+
+<table align="center">
+    <tr>
+        <th width="300px">Project</th>
+        <th>Time Period</th>
+        <th>Information</th>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://www.roblox.com/games/4872321990/--"><img width="200" src="https://raw.githubusercontent.com/Vorlias/Vorlias/master/assets/islands-icon.png"/></a>
+        </td>
+                <td align="center">
+            Mar 2021 - Oct 2023
+        </td>
+        <td>
+            Popular block-based creative/economic survival RPG, under <a href="https://easy.gg">Easy Games</a>. I'm one of the engineers that work on it.
+            <div align="center">
+                 <a href="https://www.roblox.com/games/4872321990/--">Play Islands</a>
             </div>
         </td>
     </tr>
