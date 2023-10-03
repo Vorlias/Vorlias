@@ -1,22 +1,29 @@
 ## Jonathan, aka Vorlias
 Hi there! I'm Jonathan, known on the internet by my internet moniker - Vorlias.
 
-- I am a developer on the platform known as Roblox, working on games like [Zenerith](https://zenerith.com), having worked on games such as [Islands](https://easy.gg) and also contributing to the open source space in places such as my development group [Aurora Australis](//github.com/roblox-aurora) and on tools such as [roblox-ts](//roblox-ts.com).
+- I am a full time software engineer for [Easy](https://easy.gg).
+- I am also a long-time developer on the platform known as Roblox, working on games like [Zenerith](https://zenerith.com), having worked on games such as [Islands](https://easy.gg) and also contributing to the open source space in places such as my development group [Aurora Australis](//github.com/roblox-aurora) and on tools such as [roblox-ts](//roblox-ts.com).
 
-## Current Projects
+## Links
+
+- [My Website](https://vorlias.nz)
+- [My Blog](https://blog.vorlias.nz)
+- [Mastodon](https://mastodon.nz/@vorlias)
+
+## Personal Projects
 
 <table align="center">
     <tr>
         <th width="300px">Project</th>
         <th>Information</th>
     </tr>
-        <tr>
-        <td align="center">
+    <tr>
+        <!-- <td align="center">
         </td>
         <td>
-            [Undisclosed, coming soon&trade; <a href="https://easy.gg/">easy.gg</a> project]
+            [internal]
         </td>
-    </tr>
+    </tr> -->
     <tr>
         <td align="center">
             <a href="http://ptb.zenerith.com"><img width="200" src="https://raw.githubusercontent.com/Vorlias/Vorlias/master/assets/zenerith-icon.png"/></a>
@@ -36,20 +43,24 @@ Hi there! I'm Jonathan, known on the internet by my internet moniker - Vorlias.
     </tr>
 </table>
 
-## Projects I've worked on
+## Professional Work
 
 <table align="center">
     <tr>
         <th width="300px">Project</th>
-        <th>Time Period</th>
+        <th>Company</th>
+        <th>Date(s)</th>
         <th>Information</th>
     </tr>
     <tr>
         <td align="center">
             <a href="https://www.roblox.com/games/4872321990/--"><img width="200" src="https://raw.githubusercontent.com/Vorlias/Vorlias/master/assets/islands-icon.png"/></a>
         </td>
-                <td align="center">
-            Mar 2021 - Oct 2023
+        <td align="center">
+            <a href="https://easy.gg">Easy</a>
+        </td>
+        <td align="center">
+            Current
         </td>
         <td>
             Popular block-based creative/economic survival RPG, under <a href="https://easy.gg">Easy Games</a>. I'm one of the engineers that work on it.
@@ -60,7 +71,11 @@ Hi there! I'm Jonathan, known on the internet by my internet moniker - Vorlias.
     </tr>
 </table>
 
-## Roblox Libraries
+
+
+## Open Source Work
+
+### Roblox Libraries
 <div align="center">
     <p>This is a list of some Roblox-related libraries I've built and currently maintain</p>
     <table>
@@ -107,6 +122,6 @@ Hi there! I'm Jonathan, known on the internet by my internet moniker - Vorlias.
 </div>
 
 
-## Links
-- [Twitter](https://twitter.com/Vorlias)
-- [Project Website](https://vorlias.com)
+I have also worked on
+- [roblox-ts](https://github.com/roblox-ts/roblox-ts) - a typescript to Luau compiler for Roblox - I did the original work for Roact JSX support, and other general work on the compiler.
+- [tarmac](https://github.com/rojo-rbx/tarmac) - A command line asset management tool for Roblox - Current maintainer under the Rojo org.
