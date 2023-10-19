@@ -60,7 +60,7 @@ Hi there! I'm Jonathan, known on the internet by my internet moniker - Vorlias.
             <a href="https://easy.gg">Easy</a>
         </td>
         <td align="center">
-            Current
+            Mar 2021 - Oct 2023
         </td>
         <td>
             Popular block-based creative/economic survival RPG, under <a href="https://easy.gg">Easy Games</a>. I'm one of the engineers that work on it.
