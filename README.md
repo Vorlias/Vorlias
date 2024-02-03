@@ -54,6 +54,19 @@ Hi there! I'm Jonathan, known on the internet by my internet moniker - Vorlias.
     </tr>
     <tr>
         <td align="center">
+        </td>
+        <td align="center">
+            <a href="https://easy.gg">Easy</a>
+        </td>
+        <td align="center">
+            Nov 2023 - Current
+        </td>
+        <td>
+            Internal project (coming soon&trade;)
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
             <a href="https://www.roblox.com/games/4872321990/--"><img width="200" src="https://raw.githubusercontent.com/Vorlias/Vorlias/master/assets/islands-icon.png"/></a>
         </td>
         <td align="center">
