@@ -18,17 +18,20 @@ Hi there! I'm Jonathan, known on the internet by my internet moniker - Vorlias.
         <th>Information</th>
     </tr>
     <tr>
-        <!-- <td align="center">
+        <td align="center">
+                <a href="https://www.roblox.com/games/4872321990/--"><img width="200" src="https://raw.githubusercontent.com/Vorlias/Vorlias/master/assets/Voyager.png"/></a>
         </td>
         <td>
-            [internal]
+            <h2>Upcoming Project</h2>
+            Coming soon&trade;
         </td>
-    </tr> -->
+    </tr>
     <tr>
         <td align="center">
-            <a href="http://ptb.zenerith.com"><img width="200" src="https://raw.githubusercontent.com/Vorlias/Vorlias/master/assets/zenerith-icon.png"/></a>
+            <a href="http://ptb.zenerith.com"><img width="200" src="https://raw.githubusercontent.com/Vorlias/Vorlias/master/assets/Zenerith.png"/></a>
         </td>
         <td>
+        <h2>Zenerith</h2>
         A vast world in which an adventure awaits... a world in which you can forge your own story in a vast fantasy world, on Roblox.
 
 - 🌍 Enter a fantasy world, and create your own story!
